@@ -13,7 +13,8 @@ Used to change the current directory. </li> <br>
 Used to get down one directory. </li> <br>
 
 <li> <code> cd ~ </code> <br>
-Open new screen of the command line interface. </li> <br>
+Open new screen of the command line interface.<br>
+Goes to the initial directory where Git is downloaded. </li> <br>
 
 <li> <code> cd ../.. </code> <br>
 Used to get down two directories. </li> <br>
