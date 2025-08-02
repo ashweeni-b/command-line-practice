@@ -30,14 +30,12 @@ command-line-practice <br>
 &emsp;&emsp;&ensp;&nbsp;|_ helloworld.py <br>
 &emsp;&emsp;&ensp;&nbsp;|_ forloop.py <br>
 &emsp;&emsp;&ensp;&nbsp;|_ whileloop.py <br>
-&emsp;|_ commands.md <br>
 &emsp;|_ README.md <br>
 &emsp;|_ screens <br>
 &emsp;|_ task.md <br>
 
 <ul>
     <li> <code> README.md </code> - Contains information about the project. </li>
-    <li> <code> commands.md </code> - Contains the list of commands used for completing the tasks mentioned below. </li>
     <li> <code> task.md </code> - Contains the input tasks and their outputs. </li> 
 </ul>
 
@@ -60,12 +58,12 @@ command-line-practice <br>
 
 <em> <strong> Commands Used: </strong> </em> <br>
 
-<code> cd </code>, <code> mkdir </code>, <code> touch </code>, <code> mv </code>, <code> cp </code>, <code> rm </code> <br>
+<code> cd </code>, <code> mkdir </code>, <code> touch </code>, <code> ls </code>, <code> mv </code>, <code> cp </code>, <code> rm </code> <br>
 
 ****
 
 <em> <strong> How to Run: </strong> </em>
 
-<p> Open the Git terminal and follow the tasks in <code> README.md </code> using the commands listed in <code> commands.md </code>. Refer <code> tasks.md </code> for better understanding of usage of commands. </p>
+<p> Open the Git terminal and follow the tasks in <code> README.md </code> using the necessary commands. Refer <code> tasks.md </code> for better understanding of usage of commands. </p>
 
 ****

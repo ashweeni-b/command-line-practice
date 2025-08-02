@@ -5,20 +5,6 @@ ___
 The commands used to complete the tasks are as follows:
 
 <ol>
-
-<li> <code> cd [folder_name] </code> <br>
-Used to change the current directory. </li> <br>
-
-<li> <code> cd .. </code> <br>
-Used to get down one directory. </li> <br>
-
-<li> <code> cd ~ </code> <br>
-Open new screen of the command line interface.<br>
-Goes to the initial directory where Git is downloaded. </li> <br>
-
-<li> <code> cd ../.. </code> <br>
-Used to get down two directories. </li> <br>
-
 <li> <code> cd [drive_letter]: </code> <br>
 Used to the specified drive. </li> <br>
 
@@ -31,8 +17,33 @@ Used to get contents of the directory. </li> <br>
 <li> <code> mkdir [folder_name] </code> <br>
 Used to create a new folder. </li> <br>
 
+<li> <code> cd [folder_name] </code> <br>
+Used to change the current directory. </li> <br>
+
 <li> <code> touch [file_name] </code> <br>
 Used to create a new file. </li> <br>
+
+<li> <code> cd .. </code> <br>
+Used to get down one directory. </li> <br>
+
+
+
+<li> <code> cd ~ </code> <br>
+Open new screen of the command line interface.<br>
+Goes to the initial directory where Git is downloaded. </li> <br>
+
+<li> <code> cd ../.. </code> <br>
+Used to get down two directories. </li> <br>
+
+
+
+
+
+
+
+
+
+
 
 <li> <code> touch [folder_name]/ </code> <br>
 Used to create new folder. </li> <br>

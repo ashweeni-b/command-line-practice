@@ -15,7 +15,7 @@ ____
             <li> Listed the current directory: </li>
             &nbsp;<img src = "" alt = "Listed the current directory" width = "100" /> <br>
             <li> Listed the contents of the current directory: </li>
-            &nbsp;<img src = "" alt = "Listed the contents of the current directory" width = "100" /> <br>
+            &nbsp;<img src = "" alt = "Listed the contents of the current D directory" width = "100" /> <br>
             <li> Created root project folder command-line-practice: </li>
             &nbsp;<img src = "" alt = "Created command-line practice" width = "100" /> <br>
             <li> Checked the created project folder: </li>
@@ -23,7 +23,7 @@ ____
             <li> Listed the current directory: </li>
             &nbsp;<img src = "" alt = "Listed the current directory" width = "100" /> <br>
             <li> Opened command-line-practice: </li>
-            &nbsp;<img src = "" alt = "Opened clp" width = "100" /> <br>
+            &nbsp;<img src = "" alt = "Opened command-line-practice" width = "100" /> <br>
             <li> Listed the current directory: </li>
             &nbsp;<img src = "" alt = "Listed the current directory d-clp" width = "100" /> <br>
             <li> Listed the contents of the current directory: </li>
