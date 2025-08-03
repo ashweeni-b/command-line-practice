@@ -34,10 +34,8 @@ command-line-practice <br>
 &emsp;|_ screens <br>
 &emsp;|_ task.md <br>
 
-<ul>
-    <li> <code> README.md </code> - Contains information about the project. </li>
-    <li> <code> task.md </code> - Contains the input tasks and their outputs. </li> 
-</ul>
+- [README.md](./README.md) - Contains information about the project. <br>
+- [task.md](./task.md) - Contains the input tasks and their outputs.
 
 ****
 
@@ -64,6 +62,6 @@ command-line-practice <br>
 
 <em> <strong> How to Run: </strong> </em>
 
-<p> Open the Git terminal and follow the tasks in <code> README.md </code> using the necessary commands. Refer <code> tasks.md </code> for better understanding of usage of commands. </p>
+Open the Git terminal and follow the tasks in [README.md](./README.md) using the necessary commands. Refer [task.md](./task.md) for better understanding of usage of commands. 
 
 ****
